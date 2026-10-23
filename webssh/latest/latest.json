@@ -1,8 +1,0 @@
-{
-  "stable": {
-    "version": "0.6.0",
-    "released": "2026-10-22",
-    "url": "https://hub.docker.com/repository/docker/danaildr/webssh/general",
-    "security": false
-  }
-}
