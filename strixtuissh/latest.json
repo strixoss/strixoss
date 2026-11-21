@@ -1,8 +1,8 @@
 {
   "stable": {
-    "version": "0.6.5",
-    "released": "2026-11-15",
-    "url": "https://github.com/strixoss/StrixApplication/releases/tag/strixtuissh-v0.6.5",
+    "version": "0.6.6",
+    "released": "2026-11-21",
+    "url": "https://github.com/strixoss/StrixApplication/releases/tag/strixtuissh-v0.6.6",
     "security": false
   }
 }
